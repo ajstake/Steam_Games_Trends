@@ -8,4 +8,4 @@ The earliest findings show that games that are multi-player or have multi-player
 
 **Figure 2**
 
-![](https://raw.githubusercontent.com/ajstake/Steam_Games_Trends/main/avg_owner_combined.svg)
+![](https://raw.githubusercontent.com/ajstake/Steam_Games_Trends/main/avg_gross_combined.svg)
