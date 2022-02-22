@@ -4,7 +4,7 @@ Alex Stake
 
 ## Abstract
 
-The goal of this project is to increase the sales and profit of a video game by ivestigating several factors from other games on the platform Steam. After exploring the data through Google Sheets, some visualizations were constructed in Tableau to create a preliminary analysis for further exploration as a project pitch.
+The goal of this project is to increase the sales and profit of a video game by investigating several factors from other games on the platform Steam. After exploring the data through Google Sheets, some visualizations were constructed in Tableau to create a preliminary analysis for further exploration as a project pitch.
 
 ## Design
 
